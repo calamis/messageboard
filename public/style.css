@@ -1,0 +1,25 @@
+.main__profile,
+.main__home {
+    padding: 50px 0;
+}
+
+.main__home .card {
+    margin: 10px 0;
+}
+
+.main__single__note {
+    padding: 50px 0;
+}
+
+.error {
+    color: red;
+}
+
+.rounded-circle {
+    height: 40px;
+    width: 40px;
+}
+
+.container {
+    padding: 50px;
+}
